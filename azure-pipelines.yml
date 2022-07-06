@@ -8,8 +8,8 @@ trigger:
   
 pool: SelfHostDC
    # vmImage: 'ubuntu-20.04'
-demands:
-    - npm
+##demands:
+ ##   - npm
   
 variables:
     buildConfiguration: 'Release'
